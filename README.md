@@ -22,14 +22,13 @@ News: https://newsapi.org/
 ## React Setup Code
 
 ```
-cd lab08/my-react-app/src
+cd my-react-app/src
 npm run build
 cd ../..
 node --env-file=.env server.js -OR- npm start
 ```
 
 ```
-(in lab08)
 sudo env "PATH=$PATH" npm i
 sudo -u www-data nano .env (make .env file and copy in data)
 ```
