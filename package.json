@@ -1,0 +1,21 @@
+{
+  "name": "inclass",
+  "version": "1.0.0",
+  "description": "LAB 6: MongoDB & APIs\r - See \"Weather\"\r http://murrad6.eastus.cloudapp.azure.com/ITWS4500-murrad6/lab06",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/d3": "^7.4.3",
+    "bootstrap": "^5.3.3",
+    "d3": "^7.9.0",
+    "express": "^4.19.2",
+    "mongodb": "^6.5.0",
+    "react-bootstrap": "^2.10.1"
+  },
+  "keywords": []
+}
