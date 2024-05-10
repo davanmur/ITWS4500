@@ -1,37 +1,10 @@
 # README
 
-LAB 8: Final
+## Final Project
 
-======================================================
-## Work Log
-
-- removed code closing mongo connection from graphs to stop error 
-  and allow them both to appear with no issues
-- made a new News React component
-  - copied over ticker code from lab 1
-- located news API and made account
-- created a new /news GET endpoint to retrieve article data
-- combined code from lab 1 with endpoint to make news
-  articles appear in the ticker
-- reordered pages and renamed headings to make them more logical
-- made new GET endpoint /location to pull from Geocoding API
-- created a new location input on Weather.jsx and connected it the the
-  GET endpoint the the frontend code to convert the name of a place into
-  cordinates
-- added HTML and CSS to better display weather data retieved from APIs (Web Systems lab03)
-- integrated this second display with the call to server.js
-- modify GET /news to include search query 'q'
-- added search bar and display to React (w3schools: search button)
-
-======================================================
-## Sources
-
-- lab01
-- https://www.w3schools.com/jsref/met_document_getelementsbyclassname.asp
-- https://www.w3schools.com/jsref/met_node_appendchild.asp
-- ChatGPT
-- Web Systems lab03
-- https://www.w3schools.com/howto/howto_css_search_button.asp
+This is the complete version of the personal project developed in Web Science Systems. It is meant to be 
+a website which gathers and displays all pertinent information a person might want to see when they first wake up
+as well as meeting the various specified requirements for the assignment (such as displaying the graphics).
 
 ======================================================
 ## APIs
