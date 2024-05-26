@@ -2,7 +2,7 @@
 
 ## Final Project
 
-This is the complete version of the personal project developed in Web Science Systems. It is meant to be 
+This is the complete version of the personal project developed in my Web Science Systems class. It is meant to be 
 a website which gathers and displays all pertinent information a person might want to see when they first wake up
 as well as meeting the various specified requirements for the assignment (such as displaying the graphics).
 
