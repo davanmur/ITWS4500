@@ -10,13 +10,13 @@ as well as meeting the various specified requirements for the assignment (such a
 ## APIs
 
 Market Data: https://www.marketdata.app/docs/api/stocks/quotes  
-Frankfurter: https://www.frankfurter.app/docs/
+Frankfurter: https://www.frankfurter.app/docs/  
 
-OpenWeatherAPI: https://home.openweathermap.org/
-Foreca: https://developer.foreca.com/#Forecasts
-Weatherbit: https://www.weatherbit.io/api/weather-current
+OpenWeatherAPI: https://home.openweathermap.org/  
+Foreca: https://developer.foreca.com/#Forecasts  
+Weatherbit: https://www.weatherbit.io/api/weather-current  
 
-News: https://newsapi.org/
+News: https://newsapi.org/  
 
 ======================================================
 ## React Setup Code
